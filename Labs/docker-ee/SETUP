@@ -27,7 +27,7 @@ Step 4:
 ======
 
 1. be the user you created,configured the key with
-2. Configure a new file with name "cluster.yml" with below content. (The full set of options is here : https://github.com/Mirantis/launchpad/blob/master/docs/configuration-file.md) 
+2. Configure a new file with name "launchpad.yml" with below content. (The full set of options is here : https://github.com/Mirantis/launchpad/blob/master/docs/configuration-file.md) 
 
 apiVersion: launchpad.mirantis.com/v1beta2
 kind: UCP
